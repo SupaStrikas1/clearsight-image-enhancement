@@ -1,0 +1,43 @@
+# Datasets and large files
+data/
+datasets/
+drive/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.npz
+*.h5
+
+# Checkpoints and outputs
+checkpoints/
+outputs/
+runs/
+logs/
+wandb/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Temporary or cache
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+
+node_modules/
